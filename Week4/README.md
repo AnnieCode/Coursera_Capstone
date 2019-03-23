@@ -16,11 +16,12 @@ This analysis will make use of the following data sources:
    Data will be retrieved from Seoul Open Dataset from https://data.seoul.go.kr website
    Various statistical information about welfare, education, traffic, safety, population, etc. can be obtained by district in Seoul.
    The examples are as follows :
-      - Number of Public Schools (Elementary/Middle/High)
-      - Number of Private Academies
-      - Number of Hospitals
-      - Number of Crimes
-      - Traffic Safety Index
+   - Number of Public Schools (Elementary/Middle/High)
+   - Number of Private Academies
+   - Number of Hospitals
+   - Number of Crimes
+   - Traffic Safety Index
+   
    Supported Open Dataset types are csv or JSON or XML. 
    
 ### 2. Top Venue Recommendations of each district in Seoul
