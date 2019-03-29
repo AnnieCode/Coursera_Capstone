@@ -7,6 +7,7 @@ This analysis will help people who want to move to Seoul by classifying the char
 
 <img src=http://english.seoul.go.kr/wp-content/uploads/2018/07/01Seoul-Views_01Meaning-of-Seoul_04mapsize.jpg>
 
+
 # Data Section
 
 This analysis will make use of the following data sources:
