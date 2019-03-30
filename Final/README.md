@@ -5,7 +5,7 @@ There are 25 autonomous districts and 423 administrative “dong” units in Seo
 If someone moves to Seoul or needs to stay for a certain period of time for business or sightseeing reasons, he or she should decide on the area that meets their requirements.
 This analysis will help people who want to move to Seoul by classifying the characteristics of each district using machine learning algorithms.
 
-<img src=http://english.seoul.go.kr/wp-content/uploads/2018/07/01Seoul-Views_01Meaning-of-Seoul_04mapsize.jpg>
+<img src="http://english.seoul.go.kr/wp-content/uploads/2018/07/01Seoul-Views_01Meaning-of-Seoul_04mapsize.jpg">
 
 
 # Data Section
